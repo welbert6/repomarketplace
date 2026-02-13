@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ProConnect",
+  "description": "A premium marketplace for local services including electricians, beauty, therapy, and more. Features scheduling, secure payments, and professional reviews.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
